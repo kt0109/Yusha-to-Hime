@@ -1,0 +1,5 @@
+[
+null,
+{"id":1,"actions":[{"conditionParam1":0,"conditionParam2":0,"conditionType":0,"rating":5,"skillId":7}],"battlerHue":17,"battlerName":"Ogre","dropItems":[{"dataId":1,"denominator":1,"kind":0},{"dataId":1,"denominator":1,"kind":0},{"dataId":1,"denominator":1,"kind":0}],"exp":0,"traits":[{"code":22,"dataId":0,"value":0.95},{"code":31,"dataId":1,"value":0}],"gold":0,"name":"ハバーン","note":"","params":[250,99,100,15,75,25,30,30]},
+{"id":2,"actions":[{"conditionParam1":0,"conditionParam2":0,"conditionType":0,"rating":5,"skillId":7}],"battlerHue":0,"battlerName":"Actor2_4","dropItems":[{"dataId":1,"denominator":1,"kind":0},{"dataId":1,"denominator":1,"kind":0},{"dataId":1,"denominator":1,"kind":0}],"exp":0,"traits":[{"code":22,"dataId":0,"value":0.95},{"code":22,"dataId":1,"value":0.05},{"code":31,"dataId":1,"value":0}],"gold":0,"name":"マリアベル","note":"[SV Animated]\nSV Weapon: 1\n[Collapse]","params":[100,0,10,10,10,10,10,10]}
+]
