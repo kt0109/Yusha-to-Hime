@@ -1,4 +1,4 @@
-# yusyatohime100
+# 3分間RPG「勇者と姫様」
 RPG Maker MV Games 002
 
 ver1.1 不具合修正<br>
