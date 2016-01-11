@@ -1,7 +1,7 @@
 # yusyatohime100
 RPG Maker MV Games 002
 
-ver1.1 不具合修正
+ver1.1 不具合修正<br>
 ver1.0 コミット
 
 ゲームへのアクセスはこちらです。
